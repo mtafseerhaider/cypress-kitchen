@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://the-kitchen-applitools.netlify.app/",
+  "integrationFolder": "cypress/tests"
+}
