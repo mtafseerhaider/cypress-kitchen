@@ -1,4 +1,7 @@
 {
-  "baseUrl": "https://the-kitchen-applitools.netlify.app/",
-  "integrationFolder": "cypress/tests"
+	"baseUrl": "https://the-kitchen-applitools.netlify.app/",
+	"integrationFolder": "cypress/tests",
+	"env": {
+		"tenorApiKey": "YPUL2382S9R6"
+	}
 }

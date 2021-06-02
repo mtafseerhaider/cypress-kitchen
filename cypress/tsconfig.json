@@ -4,8 +4,11 @@
 		"allowJs": true,
 		"noEmit": true,
 		"baseUrl": "../node_modules",
-		"types": ["cypress", "@applitools/eyes-cypress"]
+		"types": [
+			"cypress", 
+			"@applitools/eyes-cypress", 
+			"cypress-file-upload"
+		]
 	},
 	"include": ["**/*.*", "cypress/**/*.js"],
-	"files": ["./node_modules/@applitools/eyes-cypress/eyes-index.d.ts"]
 }
