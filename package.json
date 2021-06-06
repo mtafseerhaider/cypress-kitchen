@@ -21,6 +21,7 @@
   "devDependencies": {
     "@applitools/eyes-cypress": "^3.22.0",
     "cypress": "^7.4.0",
+    "cypress-audit": "^1.0.0",
     "cypress-file-upload": "^5.0.7"
   }
 }
